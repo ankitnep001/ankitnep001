@@ -43,5 +43,3 @@ I am a passionate FrontEnd developer with a love for learning new technologies a
 - [WeatherApp-React](https://github.com/ankitnep001/WeatherApp-React): 🚀 Developed a modern web application for weather forecasting using React.js and Tailwind CSS, deployed on Vercel. Link: [WeatherApp](https://weather.ankitnepal.com.np)
 - [NewsWebApp](https://github.com/ankitnep001/NewsWebApp): 🚀 Developed a responsive news web application delivering real-time updates with an intuitive, cross-device compatible interface for seamless access to the latest news. Link: [NewsWebApp](https://news.ankitnepal.com.np)
 
-*Generated with ❤️ by [Ankit Nepal]*
-
