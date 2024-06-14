@@ -7,7 +7,7 @@ I am a passionate FrontEnd developer with a love for learning new technologies a
 
 - 🌱 I’m currently learning <b>React</b> <b>Node</b>.
 - 📫 How to reach me: <a target="_blank" href="https://www.instagram.com/ankit_nepal"><img src = "https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff"></a>&nbsp;
-  <a target="_blank" href="https://www.linkedin.com/in/ankit-nepal-32791b256/"><img src = "https://img.shields.io/badge/-Linkedln-0A66C2?logo=linkedLn&logoColor=fff"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/ankit-nepal-32791b256/"><img src = "https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
 
 
 ## Languages and Frameworks
