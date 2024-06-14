@@ -8,7 +8,7 @@ I am a passionate FrontEnd developer with a love for learning new technologies a
 - 🌱 I’m currently learning <b>React</b> <b>Node</b>.
 - 📫 How to reach me: <a target="_blank" href="https://www.instagram.com/ankit_nepal"><img src = "https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff"></a>&nbsp;
   <a target="_blank" href="https://www.linkedin.com/in/ankit-nepal-32791b256/"><img src = "https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>&nbsp;
-- Visit my Portfolio &nbsp;<a target="_blank" href="https//ankitnepal.com.np">Click</a>
+- Visit my Portfolio &nbsp;<a target="_blank" href="https://ankitnepal.com.np">Click</a>
 
 
 ## Languages and Frameworks
@@ -38,16 +38,10 @@ I am a passionate FrontEnd developer with a love for learning new technologies a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitnep001&langs_count=8&theme=radical)
 
-## Connect with me
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat-square&logo=Github&logoColor=white)](https://ankitnepal.com.np)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ankit-nepal-32791b256/)
-
 ## Projects
 
 - [WeatherApp-React](https://github.com/ankitnep001/WeatherApp-React): 🚀 Developed a modern web application for weather forecasting using React.js and Tailwind CSS, deployed on Vercel. Link: [WeatherApp](https://weather.ankitnepal.com.np)
 - [NewsWebApp](https://github.com/ankitnep001/NewsWebApp): 🚀 Developed a responsive news web application delivering real-time updates with an intuitive, cross-device compatible interface for seamless access to the latest news. Link: [NewsWebApp](https://news.ankitnepal.com.np)
-
 
 *Generated with ❤️ by [Ankit Nepal]*
 
