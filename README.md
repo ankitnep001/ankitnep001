@@ -1,14 +1,14 @@
-# Hi there, I'm [Ankit Nepal] 👋
+# Hi there, I'm Ankit Nepal 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ankitnep001&color=blue)
 
 ## 🚀 About Me
 I am a passionate FrontEnd developer with a love for learning new technologies and building innovative projects. 
 
-- 🌱 I’m currently learning [React.js/Node.js].
-- 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: [ankit001nep@gmail.com].
-- ⚡ Fun fact: [A Fun Fact About You].
+- 🌱 I’m currently learning <b>React</b> <b>Node</b>.
+- 📫 How to reach me: <a target="_blank" href="https://www.instagram.com/ankit_nepal"><img src = "https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff"></a>&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/ankit-nepal-32791b256/"><img src = "https://img.shields.io/badge/-Linkedln-0A66C2?logo=linkedLn&logoColor=fff"></a>
+
 
 ## Languages and Frameworks
 
