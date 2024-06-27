@@ -1,7 +1,5 @@
 # Hi there, I'm Ankit Nepal 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ankitnep001&color=blue)
-
 ## 🚀 About Me
 I am a passionate FrontEnd developer with a love for learning new technologies and building innovative projects. 
 
